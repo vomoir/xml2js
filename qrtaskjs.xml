@@ -1,0 +1,9 @@
+<class name="QRTask">
+	<property type="number" id="true">taskId</property>
+	<property type="string">taskName</property>
+	<property type="string">taskYear</property>
+	<property type="string">taskLink</property>
+	<property type="string">taskShortLink</property>
+	<property type="date">taskDueDate</property>	
+	<method>getTaskShortLink</method>
+</class>
